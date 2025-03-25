@@ -1,6 +1,6 @@
 # GSEA Browser
 
-A web-based interactive browser for Gene Set Enrichment Analysis (GSEA) results visualization. This application allows you to explore and visualize GSEA results with an intuitive interface.
+A modern web application for visualizing and analyzing Gene Set Enrichment Analysis (GSEA) results. This tool provides an interactive interface to explore and compare GSEA results across different conditions or time points.
 
 ## Features
 
@@ -21,7 +21,7 @@ You can install the application using either conda or pip:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mohammadalkhatib/gsea_browser.git
+git clone https://github.com/alkhatib93/gsea_browser.git
 cd gsea_browser
 ```
 
@@ -35,7 +35,7 @@ conda activate gsea_browser
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mohammadalkhatib/gsea_browser.git
+git clone https://github.com/alkhatib93/gsea_browser.git
 cd gsea_browser
 ```
 
@@ -106,6 +106,6 @@ If you use this tool in your research, please cite:
   title = {GSEA Browser: Interactive visualization of Gene Set Enrichment Analysis results},
   year = {2024},
   publisher = {GitHub},
-  url = {https://github.com/mohammadalkhatib/gsea_browser}
+  url = {https://github.com/alkhatib93/gsea_browser}
 }
 ``` 
